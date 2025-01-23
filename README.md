@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 About 👋
+My name is Parker. I'm a software engineer professionally and avid tech enthusiast personally. I enjoy learning new skills and working on personal projects to further develop those skills. I particularly enjoy developing projects that relate to my love for tabletop roleplaying games like Dungeons and Dragons and other avenues of creative and immersive storytelling.
+
 
 <!--
 **sparkcity/sparkcity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
