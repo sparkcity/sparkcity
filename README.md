@@ -1,7 +1,7 @@
-## 👋 About 👋
-My name is Parker. I'm a software engineer professionally and avid tech enthusiast personally. I enjoy learning new skills and working on personal projects to further develop those skills. I particularly enjoy developing projects that relate to my love for tabletop roleplaying games like Dungeons and Dragons and other avenues of creative and immersive storytelling.
+## About
+My name is Parker. I'm a software engineer professionally and avid tech enthusiast personally. I particularly enjoy working on projects that relate to my love for tabletop roleplaying games (like Dungeons and Dragons), video games, and other avenues of creative and immersive storytelling.
 
-## 🛠️ Tools & Technologies 🛠️
+## Tools & Technologies
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
